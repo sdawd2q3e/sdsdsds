@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header":{
+    "name": "Bedrock-TexturePack",
+    "description":"Template Geyser custom model data texture pack",
+    "uuid":"fc32a5e5-a7c1-4360-a72e-d24664f2cda1",
+    "version":[ 1, 0, 0 ],
+    "min_engine_version": [ 1, 17, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Template Geyser custom model data texture pack",
+      "version":[ 1, 0, 0 ],
+      "uuid": "4ac43c1f-a48f-45ed-a4f7-d49e4e9353e6",
+      "type":"resources"
+    }
+  ]
+}
